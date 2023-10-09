@@ -1,8 +1,14 @@
 ## Kyle de Vos
 ## Software Engineering Student
-<a href="https://www.linkedin.com/in/kyle-de-vos/" target="_blank">
-  https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
-</a>
+<div>
+  <a href="https://www.linkedin.com/in/kyle-de-vos/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
+  </a>
+  <a href="https://www.udemy.com/user/kyle-de-vos/" target="_blank">
+    <img src="https://img.shields.io/badge/Udemy-purple?logo=udemy&logoColor=white&style=for-the-badge"
+  </a>
+</div>
+
   
 
 <!--
