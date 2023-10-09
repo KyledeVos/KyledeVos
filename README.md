@@ -1,4 +1,4 @@
-## Kyle de Vos
+# Kyle de Vos
 ## Software Engineering Student
 <div>
   <a href="https://www.linkedin.com/in/kyle-de-vos/" target="_blank">
@@ -9,7 +9,13 @@
   </a>
 </div>
 
-  
+
+<img src = "https://images.unsplash.com/photo-1644792863360-40fa85ea52e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+    width="600" height="300" align="center">
+
+---
+## :man_technologist: About Me:
+### I am a Software Engineering Student, Mathematics Tutor and Course Creator:1234:
 
 <!--
 **KyledeVos/KyledeVos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
