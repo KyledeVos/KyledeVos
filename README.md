@@ -21,7 +21,7 @@
 ### I am also passionate about Mathematics. I have tutoring experience and have developed Mathematics Courses, but have a deep passion for Mathematics itself. Working with numbers - their power, processes and logic - embeds in Software Engineering and I have great interest of the field of Data Science in addition to continuing to learn and grow as a Software Developer.
 </div>
 
-<div>
+<div float="left">
   <div>
     ## Tech Stack
     - Python, Java, JavaScript
@@ -32,7 +32,7 @@
   </div>
   <div style="float: left">
     <img src = "https://github.com/KyledeVos/Profile_Images/blob/master/Gen_projects_image.jpg"
-    width="300" height="300" align="right" float="right">
+    width="300" height="300" align="right">
   <div>
 <div>
 
