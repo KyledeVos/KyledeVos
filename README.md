@@ -1,4 +1,5 @@
-# Kyle de Vos - Full Profile
+# Kyle de Vos - Full Profile Below
+
 ### Software Engineering and Development
 <div>
   <a href="https://www.linkedin.com/in/kyle-de-vos/" target="_blank">
@@ -74,6 +75,17 @@
   - BattleShip Game Board with functional UI
   - Game allows player to perform custom setup of ship with intuitive placements
   - Includes fully functional computer player capable of randomized ship placement and enhanced decision making for gameplay
+
+  Built Using:
+  - JavScript, HTML and CSS
+
+  ### JavaScript - API Project - Time, Location and Info Tracking
+  <img src = "https://github.com/KyledeVos/Profile_Images/blob/master/api_project.png" width="600" height="300">
+  <a href = "https://github.com/KyledeVos/javascript-labs/tree/master/08-09-apis_requests">:date: Project Link</a>
+  
+  - API-Based Time, Location and Country Info Web Page
+  - Tracks location using IP-Address to retrieve time, location and general country info data
+  - Dynamic Theming based on time of day
 
   Built Using:
   - JavScript, HTML and CSS
