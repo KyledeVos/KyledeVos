@@ -39,7 +39,7 @@
   ## :hourglass_flowing_sand: Current
 
   ### Personal Job Application Track Tool
-  <img src = "https://github.com/KyledeVos/Profile_Images/blob/master/Product_site_home.jpg"width="600" height="300">
+  <img src = "https://github.com/KyledeVos/Profile_Images/blob/master/Product_site_home.jpg" width="600" height="300">
   - Desktop Application with functional UI and Database
   - Python, tkinter, ttkbootstrap, SQLite
 
