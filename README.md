@@ -14,13 +14,13 @@
 
 ---
 ## :man_technologist: About Me:
-### I am a passionate Software Developer actively acquiring new skills and learning new software languages.\
-### Software Development allows me to create projects that can solve real problems and provide services for companies,\
-### clients and other developers. I use my knowledge to create solutions through code and to build note-sets for revision\
-### purposes and to assist new developers./
-### /
-### I am also passionate about Mathematics. I have tutoring experience and have developed Mathematics Courses, but have a deep\
-### passion for Mathematics itself. Working with numbers - their power, processes and logic - embeds in Software Engineering and\
+### I am a passionate Software Developer actively acquiring new skills and learning new software languages.
+### Software Development allows me to create projects that can solve real problems and provide services for companies,
+### clients and other developers. I use my knowledge to create solutions through code and to build note-sets for revision
+### purposes and to assist new developers.
+### 
+### I am also passionate about Mathematics. I have tutoring experience and have developed Mathematics Courses, but have a deep
+### passion for Mathematics itself. Working with numbers - their power, processes and logic - embeds in Software Engineering and
 ### I have great interest of the field of Data Science in addition to continuing to learn and grow as a Software Developer.
 
 <!--
