@@ -2,10 +2,10 @@
 ### Software Engineering and Development
 <div>
   <a href="https://www.linkedin.com/in/kyle-de-vos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://www.udemy.com/user/kyle-de-vos/" target="_blank">
-    <img src="https://img.shields.io/badge/Udemy-purple?logo=udemy&logoColor=white&style=for-the-badge"
+    <img src="https://img.shields.io/badge/Udemy-purple?logo=udemy&logoColor=white&style=for-the-badge">
   </a>
 </div>
 <!-- Royalty Free Image. Available from: https://unsplash.com/photos/8q6e5hu3Ilc -->
@@ -13,35 +13,46 @@
   width="600" height="300" align="center">
 
 ---
+<div>
 ## :man_technologist: About Me:
 ### I am a passionate Software Developer actively acquiring new skills and learning new software languages.
 ### Software Development allows me to create projects that can solve real problems and provide services for companies, clients and other developers. I use my knowledge to create solutions through code and to build note-sets for revision purposes and to assist new developers.
 ### 
 ### I am also passionate about Mathematics. I have tutoring experience and have developed Mathematics Courses, but have a deep passion for Mathematics itself. Working with numbers - their power, processes and logic - embeds in Software Engineering and I have great interest of the field of Data Science in addition to continuing to learn and grow as a Software Developer.
+</div>
 
-## Tech Stack
-- Python, Java, JavaScript
-- HTML, CSS, Tkinter, ttkbootstrap
-- MySQL, MySQL Workbench, Sqlite
-- Django, Docker (engagement with Spring)
-- Git and GitHub, Sphinx
+<div float="left">
+  <div>
+    ## Tech Stack
+    - Python, Java, JavaScript
+    - HTML, CSS, Tkinter, ttkbootstrap
+    - MySQL, MySQL Workbench, Sqlite
+    - Django, Docker (engagement with Spring)
+    - Git and GitHub, Sphinx
+  </div>
+  <div style="float: left">
+    <img src = "https://github.com/KyledeVos/Profile_Images/blob/master/Gen_projects_image.jpg"
+    width="300" height="300"/>
+  </div>
+</div>
 
-  <img src = "https://github.com/KyledeVos/Profile_Images/blob/master/Gen_projects_image.jpg">
+<div>
+  # Projects
 
-# Projects
+  ## Current
 
-## Current
+  ### Personal Job Application Track Tool
+  - Desktop Application with functional UI and Database
+  - Python, tkinter, ttkbootstrap, SQLite
 
-### Personal Job Application Track Tool
-- Desktop Application with functional UI and Database
-- Python, tkinter, ttkbootstrap, SQLite
+  <a href = "https://github.com/KyledeVos/Python_Job_Application_Track_Tool">:date: Project Link</a>
 
-<a href = "https://github.com/KyledeVos/Python_Job_Application_Track_Tool">:date: Project Link</a>
+  #### Features:
+  Track Job Applications with functionality to load and monitor job progress, make to-do notes and manage applications
 
-#### Features:
-Track Job Applications with functionality to load and monitor job progress, make to-do notes and manage applications
+  ## Completed
 
-## Completed
+</div>
 <!--
 **KyledeVos/KyledeVos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
