@@ -19,6 +19,14 @@
 ### 
 ### I am also passionate about Mathematics. I have tutoring experience and have developed Mathematics Courses, but have a deep passion for Mathematics itself. Working with numbers - their power, processes and logic - embeds in Software Engineering and I have great interest of the field of Data Science in addition to continuing to learn and grow as a Software Developer.
 
+## Tech Stack
+- Python, Java, JavaScript
+- HTML, CSS, Tkinter, ttkbootstrap
+- MySQL, MySQL Workbench, Sqlite
+- Django, Docker (engagement with Spring)
+- Git and GitHub, Sphinx
+
+## Projects
 <!--
 **KyledeVos/KyledeVos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
