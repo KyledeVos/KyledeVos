@@ -29,7 +29,7 @@
      <li>MySQL, MySQL Workbench, Sqlite</li>
      <li>Django, Docker (engagement with Spring)</li>
      <li>Git and GitHub, Sphinx</li>
-    <ul>
+  <ul>
 </div>
 
 
@@ -47,7 +47,24 @@
   #### Features:
   Track Job Applications with functionality to load and monitor job progress, make to-do notes and manage applications
 
+  ### Software Note-Sets
+  #### Encouraging the spread and accessibility of knowledge combined with continuous revision of my basics, I am actively developing note-sets that are available here and on my LinkedIn page for new developers (or seasoned pros) to reference
+  
+
   ## :card_file_box: Previous
+
+  ### Django Demo E-Commerce Site
+  <a href = "https://github.com/KyledeVos/Django_Capstone">:date: Project Link</a>
+
+
+  - Web Application developed for Demo of E-Commerce Site
+  - Features Include User Authentication, Product Display and Order
+  - Admin Login for product management and order management
+
+  Built Using:
+  - Python, Django, Docker, SQLite, Sphinx
+  - Object-Orientated Practices and Dependency Control
+  - Version Control with Git and GitHub
 
 
 <!--
