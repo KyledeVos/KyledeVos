@@ -41,6 +41,7 @@
   ### Personal Job Application Track Tool
   - Desktop Application with functional UI and Database
   - Python, tkinter, ttkbootstrap, SQLite
+
   <a href = "https://github.com/KyledeVos/Python_Job_Application_Track_Tool">:date: Project Link</a>
 
   #### Features:
