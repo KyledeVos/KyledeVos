@@ -32,24 +32,27 @@
   </div>
   <div style="float: left">
     <img src = "https://github.com/KyledeVos/Profile_Images/blob/master/Gen_projects_image.jpg"
-    width="300" height="300" align="right"/>
-  <div>
+    width="300" height="300"/>
+  </div>
+</div>
+
 <div>
+  # Projects
 
-# Projects
+  ## Current
 
-## Current
+  ### Personal Job Application Track Tool
+  - Desktop Application with functional UI and Database
+  - Python, tkinter, ttkbootstrap, SQLite
 
-### Personal Job Application Track Tool
-- Desktop Application with functional UI and Database
-- Python, tkinter, ttkbootstrap, SQLite
+  <a href = "https://github.com/KyledeVos/Python_Job_Application_Track_Tool">:date: Project Link</a>
 
-<a href = "https://github.com/KyledeVos/Python_Job_Application_Track_Tool">:date: Project Link</a>
+  #### Features:
+  Track Job Applications with functionality to load and monitor job progress, make to-do notes and manage applications
 
-#### Features:
-Track Job Applications with functionality to load and monitor job progress, make to-do notes and manage applications
+  ## Completed
 
-## Completed
+</div>
 <!--
 **KyledeVos/KyledeVos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
