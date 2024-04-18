@@ -21,8 +21,8 @@
 ### I am also passionate about Mathematics. I have tutoring experience and have developed Mathematics Courses, but have a deep passion for Mathematics itself. Working with numbers - their power, processes and logic - embeds in Software Engineering and I have great interest of the field of Data Science in addition to continuing to learn and grow as a Software Developer.
 
  ## Tech Stack
-<div float="left">
-  <div>
+
+<div>
    <ul>
      <li>Python, Java, JavaScript</li>
      <li>HTML, CSS, Tkinter, ttkbootstrap</li>
@@ -30,17 +30,13 @@
      <li>Django, Docker (engagement with Spring)</li>
      <li>Git and GitHub, Sphinx</li>
     <ul>
-  </div>
-  <div style="float: left">
-    <img src = "https://github.com/KyledeVos/Profile_Images/blob/master/Gen_projects_image.jpg"
-    width="300" height="300"/>
-  </div>
 </div>
+
 
 
   # Projects
 
-  ## Current
+  ## :hourglass_flowing_sand: Current
 
   ### Personal Job Application Track Tool
   - Desktop Application with functional UI and Database
@@ -51,7 +47,7 @@
   #### Features:
   Track Job Applications with functionality to load and monitor job progress, make to-do notes and manage applications
 
-  ## Completed
+  ## :card_file_box: Previous
 
 
 <!--
