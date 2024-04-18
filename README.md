@@ -53,8 +53,9 @@
   ## :card_file_box: Previous
 
   ### Django Demo E-Commerce Site
-  <a href = "https://github.com/KyledeVos/Django_Capstone">:date: Project Link</a>
   <img src = "https://github.com/KyledeVos/Profile_Images/blob/master/Product_site_home.jpg" width="600" height="300">
+  <a href = "https://github.com/KyledeVos/Django_Capstone">:date: Project Link</a>
+  
   
   - Web Application developed for Demo of E-Commerce Site
   - Features Include User Authentication, Product Display and Order
