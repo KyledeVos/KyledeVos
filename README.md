@@ -90,6 +90,16 @@
   Built Using:
   - JavScript, HTML and CSS
 
+  ### JavaScript - Tic-Tac-Toe Game
+  <img src = "https://github.com/KyledeVos/Profile_Images/blob/master/tic_tac_toe_game.png" width="600" height="300">
+  <a href = "https://github.com/KyledeVos/javascript-labs/tree/master/07-js_html_css_dom/Tic%20Tac%20Toe">:date: Project Link</a>
+  
+  - Simple Tic-Tac-Toe Web Page Game
+  - 2 Player Game with win-loss tracking
+
+  Built Using:
+  - JavScript, HTML and CSS
+
 
 <!--
 **KyledeVos/KyledeVos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
