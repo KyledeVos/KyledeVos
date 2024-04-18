@@ -32,7 +32,7 @@
   </div>
   <div style="float: left">
     <img src = "https://github.com/KyledeVos/Profile_Images/blob/master/Gen_projects_image.jpg"
-    width="600" height="300" align="center">
+    width="300" height="300" align="right" float="right">
   <div>
 <div>
 
