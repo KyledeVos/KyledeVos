@@ -34,7 +34,7 @@
 ### Desktop Application with functional UI and Database
 #### Python, tkinter, ttkbootstrap, SQLite
 
-Link: <a href = "https://github.com/KyledeVos/Python_Job_Application_Track_Tool"> </a>
+<a href = "https://github.com/KyledeVos/Python_Job_Application_Track_Tool">Project Link</a>
 <!--
 **KyledeVos/KyledeVos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
