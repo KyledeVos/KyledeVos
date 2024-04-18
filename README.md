@@ -26,6 +26,8 @@
 - Django, Docker (engagement with Spring)
 - Git and GitHub, Sphinx
 
+  <img src = "https://github.com/KyledeVos/Profile_Images/blob/master/Gen_projects_image.jpg">
+
 # Projects
 
 ## Current
