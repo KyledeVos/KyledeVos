@@ -26,7 +26,15 @@
 - Django, Docker (engagement with Spring)
 - Git and GitHub, Sphinx
 
-## Projects
+# Projects
+
+## Current
+
+### Personal Job Application Track Tool
+### Desktop Application with functional UI and Database
+#### Python, tkinter, ttkbootstrap, SQLite
+
+Link: <a href = "https://github.com/KyledeVos/Python_Job_Application_Track_Tool"> </a>
 <!--
 **KyledeVos/KyledeVos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
