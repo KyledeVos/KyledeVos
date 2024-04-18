@@ -41,11 +41,7 @@
   ### Personal Job Application Track Tool
   - Desktop Application with functional UI and Database
   - Python, tkinter, ttkbootstrap, SQLite
-  <img src = "https://github.com/KyledeVos/Profile_Images/blob/master/Product_site_home.jpg" width="600" height="300">
-  
-
   <a href = "https://github.com/KyledeVos/Python_Job_Application_Track_Tool">:date: Project Link</a>
-
 
   #### Features:
   Track Job Applications with functionality to load and monitor job progress, make to-do notes and manage applications
@@ -58,8 +54,8 @@
 
   ### Django Demo E-Commerce Site
   <a href = "https://github.com/KyledeVos/Django_Capstone">:date: Project Link</a>
-
-
+  <img src = "https://github.com/KyledeVos/Profile_Images/blob/master/Product_site_home.jpg" width="600" height="300">
+  
   - Web Application developed for Demo of E-Commerce Site
   - Features Include User Authentication, Product Display and Order
   - Admin Login for product management and order management
