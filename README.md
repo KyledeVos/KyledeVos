@@ -34,7 +34,7 @@
 - Desktop Application with functional UI and Database
 - Python, tkinter, ttkbootstrap, SQLite
 
-<a href = "https://github.com/KyledeVos/Python_Job_Application_Track_Tool":date: Project Link</a>
+<a href = "https://github.com/KyledeVos/Python_Job_Application_Track_Tool">:date: Project Link</a>
 
 #### Features:
 Track Job Applications with functionality to load and monitor job progress, make to-do notes and manage applications
