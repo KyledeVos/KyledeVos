@@ -31,10 +31,15 @@
 ## Current
 
 ### Personal Job Application Track Tool
-### Desktop Application with functional UI and Database
-#### Python, tkinter, ttkbootstrap, SQLite
+- Desktop Application with functional UI and Database
+- Python, tkinter, ttkbootstrap, SQLite
 
-<a href = "https://github.com/KyledeVos/Python_Job_Application_Track_Tool">Project Link</a>
+<a href = "https://github.com/KyledeVos/Python_Job_Application_Track_Tool":date: Project Link</a>
+
+#### Features:
+Track Job Applications with functionality to load and monitor job progress, make to-do notes and manage applications
+
+## Completed
 <!--
 **KyledeVos/KyledeVos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
