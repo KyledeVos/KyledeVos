@@ -100,6 +100,16 @@
   Built Using:
   - JavScript, HTML and CSS
 
+  ### Java Personal Budget App
+  <a href = "https://github.com/KyledeVos/budgetAppProject">:date: Project Link</a>
+  
+  - Console-Based Personal Budget Tracker
+  - Income and Expenditure Track
+  - Budget Report Generation
+
+  Built Using:
+  - Java and MySQL
+
 
 <!--
 **KyledeVos/KyledeVos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
