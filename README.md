@@ -8,9 +8,6 @@
     <img src="https://img.shields.io/badge/Udemy-purple?logo=udemy&logoColor=white&style=for-the-badge"
   </a>
 </div>
-<div>
-    <img src="https://komarev.com/ghpvc/?username=KyledeVos&style=flat-square&color=blue"alt="View Counter"align="center"/>
-</div>
 <!-- Royalty Free Image. Available from: https://unsplash.com/photos/8q6e5hu3Ilc -->
 <img src = "https://images.unsplash.com/photo-1644792863360-40fa85ea52e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
   width="600" height="300" align="center">
