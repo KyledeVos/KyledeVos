@@ -50,6 +50,8 @@
 
   ### Software Note-Sets
   #### Encouraging the spread and accessibility of knowledge combined with continuous revision of my basics, I am actively developing note-sets that are available here and on my LinkedIn page for new developers (or seasoned pros) to reference
+
+  <a href = "https://github.com/KyledeVos/Software-Notes">:date: Project Link</a>
   
 
   ## :card_file_box: Previous
