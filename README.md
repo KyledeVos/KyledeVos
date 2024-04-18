@@ -1,4 +1,4 @@
-# Kyle de Vos
+# Kyle de Vos - Full Profile
 ### Software Engineering and Development
 <div>
   <a href="https://www.linkedin.com/in/kyle-de-vos/" target="_blank">
@@ -66,6 +66,17 @@
   - Python, Django, Docker, SQLite, Sphinx
   - Object-Orientated Practices and Dependency Control
   - Version Control with Git and GitHub
+
+  ### JavaScript - BattleShip Web Page Game
+  <img src = "https://github.com/KyledeVos/Profile_Images/blob/master/ActiveGameScreenshot.PNG" width="600" height="300">
+  <a href = "https://github.com/KyledeVos/javascript-labs/tree/master/10-Capstone">:date: Project Link</a>
+  
+  - BattleShip Game Board with functional UI
+  - Game allows player to perform custom setup of ship with intuitive placements
+  - Includes fully functional computer player capable of randomized ship placement and enhanced decision making for gameplay
+
+  Built Using:
+  - JavScript, HTML and CSS
 
 
 <!--
