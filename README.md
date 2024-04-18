@@ -31,7 +31,8 @@
     - Git and GitHub, Sphinx
   </div>
   <div style="float: left">
-    <img src = "https://github.com/KyledeVos/Profile_Images/blob/master/Gen_projects_image.jpg">
+    <img src = "https://github.com/KyledeVos/Profile_Images/blob/master/Gen_projects_image.jpg"
+    width="600" height="300" align="center">
   <div>
 <div>
 
