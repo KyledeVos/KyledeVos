@@ -25,9 +25,10 @@
 
 <div>
    <ul>
-     <li>Python, Java, JavaScript</li>
+     <li>Python, Java, JavaScript, TypeScript, React</li>
      <li>HTML, CSS, Tkinter, ttkbootstrap</li>
-     <li>MySQL, MySQL Workbench, Sqlite</li>
+     <li>Bootstrap, Tailwind </li>
+     <li>MySQL, MySQL Workbench, Sqlite, Laragon, Heidi SQL</li>
      <li>Django, Docker (engagement with Spring)</li>
      <li>Git and GitHub, Sphinx</li>
   <ul>
